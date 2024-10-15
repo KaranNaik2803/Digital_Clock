@@ -1,4 +1,4 @@
-# Digital_Clock
+# Digital Clock
 
 <i>This project is a simple yet functional Digital Clock built using HTML, CSS, and JavaScript. The clock displays the current time dynamically and updates every second to reflect real-time changes.
 
